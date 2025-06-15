@@ -1,0 +1,15 @@
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.exe
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.deps.json
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.runtimeconfig.json
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.dll
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\bin\Debug\net9.0\ParamSample.pdb
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfoInputs.cache
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.AssemblyInfo.cs
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.csproj.CoreCompileInputs.cache
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.sourcelink.json
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.dll
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\refint\ParamSample.dll
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.pdb
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ParamSample.genruntimeconfig.cache
+D:\PRN212-SE180719\khanhcr123456\PRN212-SE1848-SE180719\PRN212-SE1848\ParamSample\obj\Debug\net9.0\ref\ParamSample.dll

@@ -1,0 +1,25 @@
+﻿<Window x:Class="XuLyChuoiWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XuLyChuoiWPF"
+        mc:Ignorable="d"
+        Title="SE180719 - Huỳnh Đức Khánh" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtNhap" HorizontalAlignment="Left" Margin="10,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" Height="93" Background="Yellow"/>
+        <TextBox x:Name="txtXuat" HorizontalAlignment="Left" Margin="425,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="365" Height="93" Background="Yellow"/>
+        <Label Content="Nhập Dữ Liệu" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Xuất Dữ Liệu" HorizontalAlignment="Left" Margin="425,15,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnNhap" Content="Nhập Liệu" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" Height="45" Width="390" FontSize="30" Click="btnNhap_Click"/>
+        <Button x:Name="btnInNguyenAmPhuAm" Content="In Nguyên Âm Phụ" HorizontalAlignment="Left" Margin="424,285,0,0" VerticalAlignment="Top" Height="37" Width="366" FontSize="25"/>
+        <Button x:Name="btnInChuHoa" Content="In Chữ Hoa" HorizontalAlignment="Left" Margin="10,184,0,0" VerticalAlignment="Top" Width="390" Height="43" FontSize="30"/>
+        <Button x:Name="btnInChuThuong" Content="In Chữ Thường" HorizontalAlignment="Left" Margin="10,232,0,0" VerticalAlignment="Top" Height="48" Width="390" FontSize="30"/>
+        <Button x:Name="btnDemSoKTThuong" Content="Đếm Số Ký Tự Thường" HorizontalAlignment="Left" Margin="10,285,0,0" VerticalAlignment="Top" Height="37" Width="390" FontSize="25"/>
+        <Button x:Name="btnDenSoTu" Content="Đếm Số Từ" HorizontalAlignment="Left" Margin="425,232,0,0" VerticalAlignment="Top" Height="48" Width="365" FontSize="30"/>
+        <Button x:Name="btnInSoTuTrenMoiDong" Content="In Số Từ Mỗi Dòng" HorizontalAlignment="Left" Margin="425,184,0,0" VerticalAlignment="Top" Height="43" Width="365" FontSize="30"/>
+        <Button x:Name="btnDemSoKTHoa" Content="Đếm Số Ký Tự Hoa" HorizontalAlignment="Left" Margin="425,134,0,0" VerticalAlignment="Top" Height="45" Width="365" FontSize="30"/>
+        <Button x:Name="btnKetThuc" Content="Kết Thúc" HorizontalAlignment="Center" Margin="0,327,0,0" VerticalAlignment="Top" Height="51" Width="780" FontSize="30"/>
+
+    </Grid>
+</Window>

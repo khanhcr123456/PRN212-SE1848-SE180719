@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadraticDegree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3082312703eed7905945dc6126a0dbc6c05b9e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6658373b529b08f32352a228c6ed74bdaab0c774")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadraticDegree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadraticDegree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
